@@ -1,0 +1,13 @@
+module.exports = {
+  SUCCESS_CODE: 200,
+  METHOD_GET: 'GET',
+  METHOD_POST: 'POST',
+  METHOD_DELETE: 'DELETE',
+  ERROR_CODE_INTERNAL: 500,
+  ERROR_CODE_METHOD_NOT_ALLOWED: 405,
+  ERROR_TEXT_METHOD_NOT_ALLOWED: 'Method not allowed',
+  DB_ITEMS: 'items',
+  DB_CLIENTS: 'clients',
+  DB_USERS: 'users',
+  DB_TOKENS: 'tokens'
+}
